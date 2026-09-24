@@ -1,14 +1,12 @@
 # D. Ngoc Trung
 
-Builder in Da Nang, Vietnam, working with Go, JavaScript, and Web3 tooling.
+Da Nang, Vietnam. Go, JavaScript, and practical tools.
 
 ## Selected work
 
-- [Vietnam personal income tax calculator](https://github.com/otrumb/tinh-thue-tncn) - browser-based calculator with a live GitHub Pages demo and an Excel formula guide.
-- [GoClaw contributions](https://github.com/nextlevelbuilder/goclaw/issues/1229) - technical issue investigation and discussion for an open-source Go project.
+- [winpathlint](https://github.com/otrumb/winpathlint), a read-only Go CLI for finding Windows checkout hazards in Git-tracked paths. [v0.1.0](https://github.com/otrumb/winpathlint/releases/tag/v0.1.0)
+- [tinh-thue-tncn](https://github.com/otrumb/tinh-thue-tncn), a Vietnamese personal income tax calculator.
 
 ## Current focus
 
-- Shipping small, useful web tools.
-- Contributing reproducible bug reports and technical discussions to open source.
-- Building reliable developer tooling with Go and JavaScript.
+- Reliable Go tools, small web utilities, and reproducible open source.
