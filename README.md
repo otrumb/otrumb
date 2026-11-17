@@ -1,14 +1,20 @@
 # D. Ngoc Trung
 
-Da Nang, Vietnam. Go, Python, JavaScript, and practical evidence-first tools.
+Go developer in Da Nang building cross-platform CLI tools, offline Web3 diagnostics, and focused upstream fixes.
 
-## Selected work
+## Selected tools
 
-- [winpathlint](https://github.com/otrumb/winpathlint), a read-only Go CLI for finding Windows checkout hazards in Git-tracked paths. [v0.2.0](https://github.com/otrumb/winpathlint/releases/tag/v0.2.0)
-- [safe-svc-diff](https://github.com/otrumb/safe-svc-diff), a Go capture CLI and Python offline analyzer for comparing Safe Transaction Service history snapshots. [v0.1.0](https://github.com/otrumb/safe-svc-diff/releases/tag/v0.1.0)
-- [bridge-map-diff](https://github.com/otrumb/bridge-map-diff), an offline Go CLI for semantic review of bridge token mapping changes. [v0.1.0](https://github.com/otrumb/bridge-map-diff/releases/tag/v0.1.0)
-- [tinh-thue-tncn](https://github.com/otrumb/tinh-thue-tncn), a Vietnamese personal income tax calculator.
+- [winpathlint](https://github.com/otrumb/winpathlint) audits Git-tracked paths for Windows checkout hazards.
+- [bridge-map-diff](https://github.com/otrumb/bridge-map-diff) reviews bridge token mapping changes offline.
+- [hexwish](https://github.com/otrumb/hexwish) generates EVM vanity addresses offline with encrypted keystore output.
+- [safe-svc-diff](https://github.com/otrumb/safe-svc-diff) captures canonical Safe Transaction Service observations and compares them offline. It does not prove chain truth.
+
+## Selected upstream contributions
+
+- [Lingui #2682](https://github.com/lingui/js-lingui/pull/2682) fixes CLI worker selection for source and built callers, independent of `NODE_ENV`.
+- [xuri/efp #23](https://github.com/xuri/efp/pull/23) preserves escaped double quotes when rendering formula text tokens.
+- [green-tea #32](https://github.com/Expressive-Tea/green-tea/pull/32) validates module mountpoints at application construction instead of failing later during path joining.
 
 ## Current focus
 
-- Reliable CLI tools, cross-platform behavior, and reproducible Web3 evidence workflows.
+- Reliable CLI tools, cross-platform behavior, reproducible Web3 evidence workflows, and small upstream fixes.
